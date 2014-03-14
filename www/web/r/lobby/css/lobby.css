@@ -1,0 +1,17 @@
+.text-centered{text-align: center;}
+
+#mapCanvas {
+  height: 100%;
+  }
+  
+.table-not-bordered td, .table-not-bordered th {
+    border-top: none;
+}
+
+tr.header {
+    background-color: rgb(250,255,255);
+}
+
+.underline {
+    border-bottom: 1px dotted rgb(125, 125, 125);
+}
